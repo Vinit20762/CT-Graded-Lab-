@@ -1,1 +1,2 @@
-# CT-Graded-Lab-
+# CT-Graded-Lab
+This is graded lab repo
